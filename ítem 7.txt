@@ -1,2 +1,0 @@
-Tabuleiro 30x40 (untado só no fundo)
-forno pré aquecido em 180 graus
