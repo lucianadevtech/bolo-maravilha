@@ -1,3 +1,3 @@
 # Bolo-Maravilha
-https://github.com/lucianadevtech/bolo-maravilha/blob/d71eab5289b37a8c630a4ca96dc9c4edceab99f4/LICENSE
+[![NPM].(https://img.shields.io/npm/1/react)].https://github.com/lucianadevtech/bolo-maravilha/blob/master/LICENSE
 
